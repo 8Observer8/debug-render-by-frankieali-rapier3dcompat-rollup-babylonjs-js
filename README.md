@@ -4,7 +4,7 @@ Sandboxes:
 - PlayCode: https://playcode.io/1528902
 - Plunker: https://plnkr.co/edit/dBHPCgYHa9fxnfO4?preview
 
-Install this package globally with the command:
+Install these packages globally with the command:
 
 > npm i -g http-server rollup uglify-js
 
